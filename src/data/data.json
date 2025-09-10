@@ -1,0 +1,39 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "customerName": "أحمد محمد",
+      "description": "طلب تصميم موقع إلكتروني",
+      "status": "New",
+      "createdAt": "2023-10-15"
+    },
+    {
+      "id": 2,
+      "customerName": "سارة عبدالله",
+      "description": "تطبيق جوال للمطعم",
+      "status": "In Progress",
+      "createdAt": "2023-10-10"
+    },
+    {
+      "id": 3,
+      "customerName": "خالد سالم",
+      "description": "تصميم شعار الشركة",
+      "status": "Done",
+      "createdAt": "2023-10-05"
+    },
+    {
+      "id": 4,
+      "customerName": "فاطمة ناصر",
+      "description": "نظام إدارة المخزون",
+      "status": "New",
+      "createdAt": "2023-10-03"
+    },
+    {
+      "id": 5,
+      "customerName": "عمر كمال",
+      "description": "تطبيق للتجارة الإلكترونية",
+      "status": "In Progress",
+      "createdAt": "2023-09-28"
+    }
+  ]
+}
